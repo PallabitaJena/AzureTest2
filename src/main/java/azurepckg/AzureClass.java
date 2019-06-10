@@ -12,7 +12,7 @@ public class AzureClass {
 		System.out.println("Kuddoooooooos");
 		 softAssert=new SoftAssert();
 		 softAssert.assertEquals("Hello","Hi");
-		 System.out.println("Kuddoooooooos");
+		 System.out.println("Kudooooos");
 		 softAssert.assertAll();
 
 
