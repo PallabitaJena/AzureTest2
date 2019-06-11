@@ -13,8 +13,12 @@ public class AzureClass {
 		System.out.println("Kuddoooooooos");
 		 softAssert=new SoftAssert();
 		 softAssert.assertEquals("Hello","Hi");
+<<<<<<< HEAD
 		 System.out.println("Kudoooos");
 		 Assert.assertEquals(true, false);
+=======
+		 System.out.println("Kuddoooooooos");
+>>>>>>> branch 'master' of https://github.com/PallabitaJena/AzureTest2.git
 		 softAssert.assertAll();
 
 
