@@ -1,5 +1,6 @@
 package azurepckg;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
@@ -13,6 +14,7 @@ public class AzureClass {
 		 softAssert=new SoftAssert();
 		 softAssert.assertEquals("Hello","Hi");
 		 System.out.println("Kudooooos");
+		 Assert.assertEquals(true, false);
 		 softAssert.assertAll();
 
 
